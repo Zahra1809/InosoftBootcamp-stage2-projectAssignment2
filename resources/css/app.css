@@ -1,0 +1,10 @@
+/* Import Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+/* Tambahkan gaya tambahan jika diperlukan */
+/* Misalnya, Anda dapat menambahkan gaya kustom di bawah ini */
+
+/* Contoh: Mengubah warna latar belakang elemen dengan class "bg-primary" */
+.bg-primary {
+    background-color: #007bff !important;
+}
